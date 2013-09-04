@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="60745f4e-6f22-4e1d-aa65-751441f058a1" time="1378299660607" ignored="false" />
     <file path="/index.php" changelist="60745f4e-6f22-4e1d-aa65-751441f058a1" time="1378299864301" ignored="false" />
-    <file path="/FormView.php" changelist="60745f4e-6f22-4e1d-aa65-751441f058a1" time="1378300084613" ignored="false" />
+    <file path="/FormView.php" changelist="60745f4e-6f22-4e1d-aa65-751441f058a1" time="1378303179127" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +31,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="12" selection-start="216" selection-end="216" vertical-scroll-proportion="0.32755297">
-              <folding>
-                <element signature="e#6#168#0" expanded="true" />
-              </folding>
+            <state line="7" column="7" selection-start="172" selection-end="172" vertical-scroll-proportion="-4.576923">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FormView.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="FormView.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FormView.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="32" selection-start="238" selection-end="238" vertical-scroll-proportion="-5.230769">
+            <state line="18" column="5" selection-start="257" selection-end="257" vertical-scroll-proportion="0.3603083">
               <folding />
             </state>
           </provider>
@@ -248,19 +246,17 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FormView.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="32" selection-start="238" selection-end="238" vertical-scroll-proportion="-5.230769">
+        <state line="7" column="7" selection-start="172" selection-end="172" vertical-scroll-proportion="-4.576923">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/FormView.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="12" selection-start="216" selection-end="216" vertical-scroll-proportion="0.32755297">
-          <folding>
-            <element signature="e#6#168#0" expanded="true" />
-          </folding>
+        <state line="18" column="5" selection-start="257" selection-end="257" vertical-scroll-proportion="0.3603083">
+          <folding />
         </state>
       </provider>
     </entry>
